@@ -1,0 +1,5 @@
+D:\Temp\CursoMVC\ADOPersisterTestDrivenDevelopment\ADOPersisterTestDrivenDevelopment\bin\Debug\ClassLibraryADOPersister.dll
+D:\Temp\CursoMVC\ADOPersisterTestDrivenDevelopment\ADOPersisterTestDrivenDevelopment\bin\Debug\ClassLibraryADOPersister.pdb
+D:\Temp\CursoMVC\ADOPersisterTestDrivenDevelopment\ADOPersisterTestDrivenDevelopment\obj\Debug\ADOPersisterTestDrivenDevelopment.csproj.CoreCompileInputs.cache
+D:\Temp\CursoMVC\ADOPersisterTestDrivenDevelopment\ADOPersisterTestDrivenDevelopment\obj\Debug\ClassLibraryADOPersister.dll
+D:\Temp\CursoMVC\ADOPersisterTestDrivenDevelopment\ADOPersisterTestDrivenDevelopment\obj\Debug\ClassLibraryADOPersister.pdb

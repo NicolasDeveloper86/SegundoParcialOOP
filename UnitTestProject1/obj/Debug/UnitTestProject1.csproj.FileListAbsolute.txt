@@ -1,0 +1,105 @@
+D:\Temp\CursoMVC\ADOPersisterTestDrivenDevelopment\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Temp\CursoMVC\ADOPersisterTestDrivenDevelopment\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Temp\CursoMVC\ADOPersisterTestDrivenDevelopment\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Temp\CursoMVC\ADOPersisterTestDrivenDevelopment\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config
+D:\Temp\CursoMVC\ADOPersisterTestDrivenDevelopment\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Temp\CursoMVC\ADOPersisterTestDrivenDevelopment\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Temp\CursoMVC\ADOPersisterTestDrivenDevelopment\UnitTestProject1\bin\Debug\ClassLibraryADOPersister.dll
+D:\Temp\CursoMVC\ADOPersisterTestDrivenDevelopment\UnitTestProject1\bin\Debug\EntityFramework.dll
+D:\Temp\CursoMVC\ADOPersisterTestDrivenDevelopment\UnitTestProject1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Temp\CursoMVC\ADOPersisterTestDrivenDevelopment\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Temp\CursoMVC\ADOPersisterTestDrivenDevelopment\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Temp\CursoMVC\ADOPersisterTestDrivenDevelopment\UnitTestProject1\bin\Debug\ClassLibraryADOPersister.pdb
+D:\Temp\CursoMVC\ADOPersisterTestDrivenDevelopment\UnitTestProject1\bin\Debug\EntityFramework.xml
+D:\Temp\CursoMVC\ADOPersisterTestDrivenDevelopment\UnitTestProject1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Temp\CursoMVC\ADOPersisterTestDrivenDevelopment\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Temp\CursoMVC\ADOPersisterTestDrivenDevelopment\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Temp\CursoMVC\ADOPersisterTestDrivenDevelopment\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+D:\Temp\CursoMVC\ADOPersisterTestDrivenDevelopment\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\Temp\CursoMVC\ADOPersisterTestDrivenDevelopment\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\Temp\CursoMVC\ADOPersisterTestDrivenDevelopment\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Temp\CursoMVC\ADOPersisterTestDrivenDevelopment\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\Temp\CursoMVC\ADOPersisterWithException\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Temp\CursoMVC\ADOPersisterWithException\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Temp\CursoMVC\ADOPersisterWithException\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Temp\CursoMVC\ADOPersisterWithException\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config
+D:\Temp\CursoMVC\ADOPersisterWithException\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Temp\CursoMVC\ADOPersisterWithException\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Temp\CursoMVC\ADOPersisterWithException\UnitTestProject1\bin\Debug\ClassLibraryADOPersister.dll
+D:\Temp\CursoMVC\ADOPersisterWithException\UnitTestProject1\bin\Debug\EntityFramework.dll
+D:\Temp\CursoMVC\ADOPersisterWithException\UnitTestProject1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Temp\CursoMVC\ADOPersisterWithException\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Temp\CursoMVC\ADOPersisterWithException\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Temp\CursoMVC\ADOPersisterWithException\UnitTestProject1\bin\Debug\ClassLibraryADOPersister.pdb
+D:\Temp\CursoMVC\ADOPersisterWithException\UnitTestProject1\bin\Debug\EntityFramework.xml
+D:\Temp\CursoMVC\ADOPersisterWithException\UnitTestProject1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Temp\CursoMVC\ADOPersisterWithException\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Temp\CursoMVC\ADOPersisterWithException\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Temp\CursoMVC\ADOPersisterWithException\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+D:\Temp\CursoMVC\ADOPersisterWithException\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\Temp\CursoMVC\ADOPersisterWithException\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\Temp\CursoMVC\ADOPersisterWithException\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Temp\CursoMVC\ADOPersisterWithException\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\Temp\CursoMVC\Parcial2OOP2020\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\Temp\CursoMVC\Parcial2OOP2020\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Temp\CursoMVC\Parcial2OOP2020\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Temp\CursoMVC\Parcial2OOP2020\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Temp\CursoMVC\Parcial2OOP2020\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config
+D:\Temp\CursoMVC\Parcial2OOP2020\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Temp\CursoMVC\Parcial2OOP2020\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Temp\CursoMVC\Parcial2OOP2020\UnitTestProject1\bin\Debug\ClassLibraryADOPersister.dll
+D:\Temp\CursoMVC\Parcial2OOP2020\UnitTestProject1\bin\Debug\EntityFramework.dll
+D:\Temp\CursoMVC\Parcial2OOP2020\UnitTestProject1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Temp\CursoMVC\Parcial2OOP2020\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Temp\CursoMVC\Parcial2OOP2020\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Temp\CursoMVC\Parcial2OOP2020\UnitTestProject1\bin\Debug\ClassLibraryADOPersister.pdb
+D:\Temp\CursoMVC\Parcial2OOP2020\UnitTestProject1\bin\Debug\EntityFramework.xml
+D:\Temp\CursoMVC\Parcial2OOP2020\UnitTestProject1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Temp\CursoMVC\Parcial2OOP2020\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Temp\CursoMVC\Parcial2OOP2020\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Temp\CursoMVC\Parcial2OOP2020\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+D:\Temp\CursoMVC\Parcial2OOP2020\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\Temp\CursoMVC\Parcial2OOP2020\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Temp\CursoMVC\Parcial2OOP2020\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\Temp\CursoMVC\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Temp\CursoMVC\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Temp\CursoMVC\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Temp\CursoMVC\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config
+D:\Temp\CursoMVC\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Temp\CursoMVC\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Temp\CursoMVC\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\ClassLibraryADOPersister.dll
+D:\Temp\CursoMVC\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\EntityFramework.dll
+D:\Temp\CursoMVC\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Temp\CursoMVC\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Temp\CursoMVC\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Temp\CursoMVC\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\ClassLibraryADOPersister.pdb
+D:\Temp\CursoMVC\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\EntityFramework.xml
+D:\Temp\CursoMVC\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Temp\CursoMVC\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Temp\CursoMVC\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Temp\CursoMVC\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+D:\Temp\CursoMVC\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\Temp\CursoMVC\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\Temp\CursoMVC\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Temp\CursoMVC\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\nicol\Desktop\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nicol\Desktop\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nicol\Desktop\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nicol\Desktop\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config
+C:\Users\nicol\Desktop\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\nicol\Desktop\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\nicol\Desktop\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\ClassLibraryADOPersister.dll
+C:\Users\nicol\Desktop\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\EntityFramework.dll
+C:\Users\nicol\Desktop\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nicol\Desktop\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nicol\Desktop\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nicol\Desktop\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\ClassLibraryADOPersister.pdb
+C:\Users\nicol\Desktop\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\EntityFramework.xml
+C:\Users\nicol\Desktop\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nicol\Desktop\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nicol\Desktop\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nicol\Desktop\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\nicol\Desktop\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\nicol\Desktop\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\nicol\Desktop\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020 (Para el alumno)\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

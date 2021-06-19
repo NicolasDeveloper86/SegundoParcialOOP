@@ -1,0 +1,6 @@
+D:\Temp\CursoMVC\ClassLibraryADOPersister\ClassLibraryADOPersister\bin\Debug\ClassLibraryADOPersister.dll
+D:\Temp\CursoMVC\ClassLibraryADOPersister\ClassLibraryADOPersister\bin\Debug\ClassLibraryADOPersister.pdb
+D:\Temp\CursoMVC\ClassLibraryADOPersister\ClassLibraryADOPersister\obj\Debug\ClassLibraryADOPersister.csprojAssemblyReference.cache
+D:\Temp\CursoMVC\ClassLibraryADOPersister\ClassLibraryADOPersister\obj\Debug\ClassLibraryADOPersister.csproj.CoreCompileInputs.cache
+D:\Temp\CursoMVC\ClassLibraryADOPersister\ClassLibraryADOPersister\obj\Debug\ClassLibraryADOPersister.dll
+D:\Temp\CursoMVC\ClassLibraryADOPersister\ClassLibraryADOPersister\obj\Debug\ClassLibraryADOPersister.pdb

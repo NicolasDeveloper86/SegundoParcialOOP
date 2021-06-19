@@ -1,0 +1,17 @@
+D:\Temp\CursoMVC\Parcial2OOP2020\Parcial2OOP2020\obj\Debug\Parcial2OOP2020.csproj.CoreCompileInputs.cache
+D:\Temp\CursoMVC\Parcial2OOP2020\Parcial2OOP2020\bin\Debug\ClassLibraryADOPersister.dll
+D:\Temp\CursoMVC\Parcial2OOP2020\Parcial2OOP2020\bin\Debug\ClassLibraryADOPersister.pdb
+D:\Temp\CursoMVC\Parcial2OOP2020\Parcial2OOP2020\obj\Debug\ClassLibraryADOPersister.dll
+D:\Temp\CursoMVC\Parcial2OOP2020\Parcial2OOP2020\obj\Debug\ClassLibraryADOPersister.pdb
+D:\Temp\CursoMVC\Parcial2OOP2020\Parcial2OOP2020\obj\Debug\Parcial2OOP2020.csprojAssemblyReference.cache
+D:\Temp\CursoMVC\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020\bin\Debug\ClassLibraryADOPersister.dll
+D:\Temp\CursoMVC\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020\bin\Debug\ClassLibraryADOPersister.pdb
+D:\Temp\CursoMVC\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020\obj\Debug\Parcial2OOP2020.csproj.CoreCompileInputs.cache
+D:\Temp\CursoMVC\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020\obj\Debug\ClassLibraryADOPersister.dll
+D:\Temp\CursoMVC\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020\obj\Debug\ClassLibraryADOPersister.pdb
+C:\Users\nicol\Desktop\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020\bin\Debug\ClassLibraryADOPersister.dll
+C:\Users\nicol\Desktop\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020\bin\Debug\ClassLibraryADOPersister.pdb
+C:\Users\nicol\Desktop\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020\obj\Debug\Parcial2OOP2020.csprojAssemblyReference.cache
+C:\Users\nicol\Desktop\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020\obj\Debug\Parcial2OOP2020.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020\obj\Debug\ClassLibraryADOPersister.dll
+C:\Users\nicol\Desktop\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020 (Para el alumno)\Parcial2OOP2020\obj\Debug\ClassLibraryADOPersister.pdb
